@@ -1,0 +1,61 @@
+/* INDEX 
+5 - 42 : CSS Home 
+*/
+
+.navcolor
+{
+    background-color: #372E2E!important;
+}
+
+.bgshoulder 
+{
+    font-family: 'Big Shoulders Text', cursive;
+}
+.bgshoulder-link
+{
+    font-family: 'Big Shoulders Text', cursive;
+    font-size: 24px!important;
+}
+
+.bgshoulder-text
+{
+    font-family: 'Big Shoulders Text', cursive;
+    font-size: 1.5vw!important; 
+}
+
+.vertical-line{
+    border-left: 2px solid #000;
+    display: inline-block;
+    height: 48px;
+    margin: 0 20px;
+    border-color: white;
+  }
+  .carousel-indicators button {
+    border-radius: 100%;
+    width: 12px!important;
+    height: 12px!important;
+  }
+
+  .list
+  {
+    list-style-type: none;
+  }
+
+  #Hs {
+    display: none;
+  }
+
+  #bhs:hover
+  {
+  background-color: #004aad;
+  color: white;}
+
+  .bg:hover
+  {
+    color: gray!important;
+  }
+
+  .card-title
+  {
+    color: #004aad!important;
+  }
