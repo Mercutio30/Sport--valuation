@@ -17,7 +17,7 @@ $(document).ready(function(){
         
       });
 
-      function valider(){
+      function valider1(){
         if(document.contactf.mail.value != "") {
    
           return true;
@@ -29,7 +29,7 @@ $(document).ready(function(){
         
       });
 
-      function valider(){
+      function valider2(){
         if(document.contactf.msg.value != "") {
    
           return true;
