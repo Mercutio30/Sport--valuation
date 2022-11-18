@@ -15,7 +15,7 @@ $(document).ready(function(){
           return false;
         }
         
-      }
+      });
 
       function valider(){
         if(document.contactf.mail.value != "") {
@@ -27,7 +27,7 @@ $(document).ready(function(){
           return false;
         }
         
-      }
+      });
 
       function valider(){
         if(document.contactf.msg.value != "") {
@@ -38,7 +38,7 @@ $(document).ready(function(){
           alert("Veuilez écrire un message avant de valider");
           return false;
         } 
-      }
+      });
 
       $(window).scroll(function(){
         var scrolledFromTop = $(window).scrollTop() + $(window).height();
